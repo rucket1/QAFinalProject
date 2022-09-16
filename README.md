@@ -1,25 +1,32 @@
-# QAFinalProject
-Final QA Project - A Grocery List app 
 
-Flask & Sqlite Groceries Application
+
+<h1>Flask & Sqlite Groceries Application</h1>
+<br>
 Author: Raheel Alam
-
+<br>
 This project contains several files:
-
-app.py
+<br>
+<b>app.py</b> 
+<br>
 includes the backend of the application - all the routes and request logic.
-
-grocery_list.db
+<br>
+<b>grocery_list.db</b> 
+<br>
 a complete SQLite groceries database which was created with grocery_list.py
-
-grocery_list.py
+<br>
+<b>grocery_list.py</b>
+<br>
 the file which created grocery_list.db
-templates/index.html
-
+<br> 
+<b>templates/index.html</b>
+<br>
 The HTML template of the application, containing Jinja expressions
-
-static/css/main.css
+<br>
+<b>static/css/main.css</b>
+<br>
 the stylesheet of the application
-
-static/js/main.js
+<br>
+<b>static/js/main.js</b>
+<br>
 includes all the client side interactions of the app
+<br>
